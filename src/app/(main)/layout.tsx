@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Anivive",
 };
 
-export default function MainLayout({ children }: PropsWithChildren) {
+export default async function MainLayout({ children }: PropsWithChildren) {
   return (
     <html lang="en">
       <body>

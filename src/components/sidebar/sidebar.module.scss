@@ -39,3 +39,13 @@
 .nav-label {
   white-space: nowrap;
 }
+
+.nav-unread-notifications-count {
+  float: right;
+  background: red;
+  color: white;
+  border-radius: 50%;
+  width: 1.5em;
+  height: 1.5em;
+  text-align: center;
+}
